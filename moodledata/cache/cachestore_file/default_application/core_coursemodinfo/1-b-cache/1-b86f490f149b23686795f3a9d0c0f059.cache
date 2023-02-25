@@ -1,0 +1,10 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:1:{i:11;O:8:"stdClass":16:{s:2:"id";s:1:"2";s:2:"cm";s:2:"11";s:3:"mod";s:5:"label";s:7:"section";s:1:"1";s:9:"sectionid";s:2:"10";s:6:"module";s:2:"12";s:5:"added";s:10:"1662581656";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:18:"deletioninprogress";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"name";s:53:"Ut enim ad minim 
+veniam, quis nostrud exercitati...";s:7:"content";s:450:"<div class="no-overflow"><p dir="ltr" style="text-align: left;"></p><p dir="ltr">Ut enim ad minim 
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea 
+commodo consequat. Duis aute irure dolor in reprehenderit in voluptate 
+velit esse cillum dolore eu fugiat nulla pariatur.</p><p dir="ltr"> Excepteur sint 
+occaecat cupidatat non proident, sunt in culpa qui officia deserunt 
+mollit anim id est laborum.</p><br><p></p></div>";}}s:12:"sectioncache";a:1:{i:1;O:8:"stdClass":4:{s:2:"id";s:2:"10";s:4:"name";s:0:"";s:7:"summary";s:241:"<p dir="ltr" style="text-align: left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. <br></p>
+<p dir="ltr" style="text-align: left;"><br></p><div><br>
+</div>";s:12:"availability";s:28:"{"op":"&","c":[],"showc":[]}";}}s:9:"shortname";s:3:"DFA";s:8:"fullname";s:11:"Doctoforall";s:6:"format";s:4:"site";s:16:"enablecompletion";s:1:"0";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1669671809";}s:7:"version";i:1669671809;}

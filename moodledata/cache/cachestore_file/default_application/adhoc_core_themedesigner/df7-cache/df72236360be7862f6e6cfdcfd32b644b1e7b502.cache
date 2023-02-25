@@ -1,0 +1,42 @@
+a:2:{s:4:"data";s:804:"/** Path: theme  styles.' **/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 1200px;
+    margin-block: 2rem;
+    gap: 2rem;
+}
+img {
+    max-width: 100%;
+    display: block;
+    object-fit: cover;
+}
+
+.tag-blue {
+    background: #56CCF2;
+    background: linear-gradient(to bottom, #2F80ED, #56CCF2);
+    color: #fafafa;
+}
+
+.tag {
+    align-self: flex-start;
+    padding: 0.25em 0.75em;
+    border-radius: 0em;
+    font-size: 0.75rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: clamp(20rem, calc(20rem + 2vw), 22rem);
+    box-shadow: 0 0.1rem 1rem rgb(0 0 0 / 10%);
+    background: #ECE9E6;
+    background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+}
+
+section[class^=" block_"],section[class^="block_"]  {
+    width: 100%;
+  }
+
+";s:7:"created";i:1671313719;}
